@@ -1,4 +1,4 @@
-@extends('template.main')
+﻿@extends('template.main')
 
 
 @section('titulo')
@@ -86,7 +86,7 @@ Clientes
 
        <td align="center">
 
-         <a  href="{{ route('certificadovehicular', ['id' => $certi->id])}}" class="btn btn-success" " title="Mostrar solicitud de servicio"><em class="glyphicon glyphicon-print"></em></a>  
+          <a  href="{{ route('certificadovehicular', ['id' => $certi->id])}}" class="btn btn-success" " title="Mostrar solicitud de servicio"><em class="glyphicon glyphicon-print"></em></a>  
       
 
       </td>

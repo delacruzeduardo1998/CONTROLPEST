@@ -1,4 +1,4 @@
-@extends('template.main')
+﻿@extends('template.main')
 @section('titulo')
 Certificado de fumigación vehícular
 
@@ -168,7 +168,7 @@ th {
 
 						</div>
 						<div class="col-md-1"></div>
-					</div>
+ 					</div>
 
 					<div class="row">
 						<div class="col-md-1"></div>

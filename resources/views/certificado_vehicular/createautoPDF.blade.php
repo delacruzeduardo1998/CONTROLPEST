@@ -1,4 +1,4 @@
-<link rel="stylesheet"href="{{asset('plugins/Bootstrap/css/bootstrap.css')}}">
+﻿<link rel="stylesheet"href="{{asset('plugins/Bootstrap/css/bootstrap.css')}}">
 <link rel="stylesheet"href="{{asset('plugins/Bootstrap/css/estilos.css')}}">
 <link rel="stylesheet"href="{{asset('plugins/Bootstrap/css/bootstrap.min.css')}}">
 
@@ -139,7 +139,7 @@
     </tr>
 </table>
 <table border="0" cellpadding="0"> 
-    <tr>
+     <tr>
         <td style="background-color:#BAF1A5;color:#030300; width: 773px;" align="center"><h5>E-mail: tlalzac-controlpest@hotmail.com | tlalzac-ventas@hotmail.com</h5></td>
     </tr>
 </table>
